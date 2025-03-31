@@ -6,7 +6,7 @@ Measure the high-order genome architectures (global folding and checkerboard) fr
 
 Citation: 
 
-## Included modules
+## Modules
 We provide a one-click bash file to compute the strength of large-scale genome architectures, global folding and checkerboard.
 
 Our algorithm comprises three key modules: **normalization**, **global folding**, and **checkerboard**.
