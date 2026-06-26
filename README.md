@@ -4,8 +4,6 @@
 
 Measure the high-order genome architectures (global folding and checkerboard) from Hi-C experiment.
 
-Citation: 
-
 ## Modules
 We provide a one-click bash file to compute the strength of large-scale genome architectures, global folding and checkerboard.
 
