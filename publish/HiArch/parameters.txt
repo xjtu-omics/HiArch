@@ -1,0 +1,20 @@
+###########
+# Script path
+python_path="/YOUR_PATH_TO_PYTHON/python"
+torch_path="/YOUR_PATH_TO_PYTHON_WITH_TORCH/python" # Only used in calculating global folding score
+script_dir="/YOUR_PATH_TO_HIARCH/HiArch" 
+
+###########
+# Data path
+basepath="/DATA_PATH"
+
+###########
+# Parameters
+normdis_df="True"
+normdis_cmd="True"
+correctmap_drc="True"
+correctmap_ac=""
+checkboard_sd=0.15
+GF_S1_am="no_anchor"
+GF_S1_ac=""
+GF_S1_ue="True"
