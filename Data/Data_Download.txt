@@ -1,3 +1,3 @@
-Please download the sample data from https://zenodo.org/records/20918103.
+Please download the sample data from https://zenodo.org/records/22068814.
 
 Push the "Abraxas_sylvata.mcool" file in this folder.
